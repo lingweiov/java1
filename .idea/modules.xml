@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mavendemo01/demo/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/../mavendemo01/demo/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mavendemo01/JavaWeb01Day01/JavaWeb01Day01.iml" filepath="$PROJECT_DIR$/../mavendemo01/JavaWeb01Day01/JavaWeb01Day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mavendemo01/JavaWeb01Day02/src/com/huidian/huidian.iml" filepath="$PROJECT_DIR$/../mavendemo01/JavaWeb01Day02/src/com/huidian/huidian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mavendemo01/demo/src/main/main.iml" filepath="$PROJECT_DIR$/../mavendemo01/demo/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mavendemo01/demo/src/test/test.iml" filepath="$PROJECT_DIR$/../mavendemo01/demo/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
