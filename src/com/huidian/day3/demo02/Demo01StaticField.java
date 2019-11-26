@@ -8,13 +8,13 @@ package com.huidian.day3.demo02;/*
 public class Demo01StaticField {
     public static void main(String[] args) {
 
-        Stdent two = new Stdent("黄蓉", 32);
+        Student two = new Student("黄蓉", 32);
         two.room = "101教室";
 
         System.out.println("姓名：" + two.getName()
                 + ",年龄：" + two.getAge() + "，教室：" + two.room
         +",学号："+two.getId());
-        Stdent one = new Stdent("郭静", 34);
+        Student one = new Student("郭静", 34);
         System.out.println("姓名：" + one.getName()
                 + ",年龄：" + one.getAge() + "，教室：" + one.room
                 +",学号："+one.getId());
